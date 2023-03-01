@@ -1,2 +1,2 @@
 My first readme
-Alx is grea
+Alx is great
